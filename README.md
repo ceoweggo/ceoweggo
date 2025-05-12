@@ -98,7 +98,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Globodain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=globodain&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=globodain&repo=Globodain&theme=tokyonight" />
   </a>
 </div>
 
