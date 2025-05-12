@@ -1,4 +1,4 @@
-<h1 align="center">Rubén Ayuso | IT Entrepreneur & CTO</h1>
+<h1 align="center">Rubén Ayuso | Entrepeneur</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ruben-ayuso">
@@ -180,15 +180,23 @@
   
   <p>Transform your business with cutting-edge technology solutions and expert consulting.</p>
   
-  <a href="https://www.globodain.com/services">
-    <img src="https://img.shields.io/badge/Cloud_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Services"/>
+  <a href="https://globodain.com/en-us/services/technological-infrastructure">
+    <img src="https://img.shields.io/badge/Cloud_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Technological Services"/>
   </a>
-  <a href="https://www.globodain.com/development">
-    <img src="https://img.shields.io/badge/Custom_Development-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Development"/>
+  <a href="https://globodain.com/en-us/education">
+    <img src="https://img.shields.io/badge/Education_Programs-2E9FED?style=for-the-badge&logo=erasmus&logoColor=white" alt="Education"/>
   </a>
-  <a href="https://www.globodain.com/consulting">
-    <img src="https://img.shields.io/badge/IT_Consulting-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Consulting"/>
+  <a href="https://softcamp.eu">
+    <img src="https://img.shields.io/badge/SoftCamp_EU-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white" alt="SoftCamp"/>
   </a>
+  
+</div>
+<div align="center">
+  <h3>🌍🇪🇺 Collaborating with Erasmus+</h3>
+  <a href="[https://globodain.com/en-us/education](https://globodain.com/en-us/education/partnership)">
+    <img src="https://img.shields.io/badge/Erasmus+_Partner-004494?style=for-the-badge&logo=european-union&logoColor=white" alt="Erasmus+"/>
+  </a>
+  <p>Empowering students and professionals through innovative IT education initiatives across Europe</p>
 </div>
 
 <br>
@@ -206,5 +214,5 @@
 ---
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/ceoweggo">Rubén Ayuso</a> | CEO & Founder at <a href="https://www.globodain.com">Globodain</a>
+  ⭐️ Atte: <a href="https://github.com/ceoweggo">Rubén Ayuso</a> | CEO & Founder at <a href="https://www.globodain.com">Globodain</a>
 </div>
