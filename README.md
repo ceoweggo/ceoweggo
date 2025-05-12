@@ -90,13 +90,16 @@
 
 <br>
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects & Community
 
 <div align="center">
   <a href="https://github.com/ceoweggo/Corebrain">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ceoweggo&repo=corebrain&theme=tokyonight" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Globodain">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=globodain&theme=tokyonight" />
+  </a>
 </div>
 
 <br>
