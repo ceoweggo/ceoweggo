@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=IT+Entrepreneur;Cloud+and+DevOps+Expert;Full+Stack+Developer;Problem+Solver;Innovation+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Focus+on+develop+Globodain;IT+entrepeneur;Full+Stack+Developer;Problem+Solver;Innovation+Leader" alt="Typing SVG" />
 </div>
 
 <br>
@@ -90,32 +90,13 @@
 
 <br>
 
-## 📝 Featured Articles & Publications
-
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Estrategias_de_Escalabilidad_en_Sistemas_Distribuidos-2ea44f?style=for-the-badge" alt="Escalabilidad"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Implementando_DevSecOps_en_Empresas_Tecnológicas-1F6FEB?style=for-the-badge" alt="DevSecOps"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Arquitecturas_Cloud--Native_para_Aplicaciones_Modernas-A371F7?style=for-the-badge" alt="Cloud-Native"/>
-  </a>
-</div>
-
-<br>
-
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ceoweggo/proyecto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ceoweggo&repo=proyecto-1&theme=tokyonight" />
+  <a href="https://github.com/ceoweggo/Corebrain">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ceoweggo&repo=corebrain&theme=tokyonight" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ceoweggo/proyecto-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ceoweggo&repo=proyecto-2&theme=tokyonight" />
-  </a>
 </div>
 
 <br>
@@ -164,7 +145,7 @@
   <a href="https://www.linkedin.com/in/ruben-ayuso">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://calendly.com/ruben-ayuso/meeting">
+  <a href="https://outlook.office.com/bookwithme/user/8bbc4917c735493cb7e469f1b2022986@globodain.com/meetingtype/qRU3qIJaD0m_eNWClqYlkA2?bookingcode=524e4fb7-61a0-46b2-b641-ff06c06c9f6c&anonymous&ep=mlink">
     <img src="https://img.shields.io/badge/Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting"/>
   </a>
 </div>
