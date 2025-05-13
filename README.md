@@ -97,7 +97,12 @@
     <tr>
       <td>
         <a href="https://github.com/ceoweggo/Corebrain">
-          <img src="https://img.shields.io/badge/COREBRAIN_SDK-FFFFFF?style=for-the-badge" alt="cOREBRAIN"/>
+          <img src="https://img.shields.io/badge/COREBRAIN_SDK-FFFFFF?style=for-the-badge" alt="Corebrain SDK"/>
+        </a>
+      </td>
+            <td>
+        <a href="https://github.com/ceoweggo/Corebrain-API">
+          <img src="https://img.shields.io/badge/COREBRAIN_API-FFFFFF?style=for-the-badge" alt="Corebrain API"/>
         </a>
       </td>
     </tr>
