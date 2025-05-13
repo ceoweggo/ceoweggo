@@ -90,42 +90,14 @@
 
 <br>
 
-## 🌟 Featured Projects & Community
-
-<div align="center">
-  <a href="https://github.com/ceoweggo/Corebrain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ceoweggo&repo=corebrain&theme=tokyonight" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-</div>
-
-<br>
-
 ## 🤝 Open for Collaboration
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/ceoweggo/open-collab-1">
-          <img src="https://img.shields.io/badge/Microservices_Architecture-2ea44f?style=for-the-badge" alt="Project 1"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ceoweggo/open-collab-2">
-          <img src="https://img.shields.io/badge/Cloud_Infrastructure_Optimization-1F6FEB?style=for-the-badge" alt="Project 2"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ceoweggo/open-collab-3">
-          <img src="https://img.shields.io/badge/AI_Implementation_Strategies-A371F7?style=for-the-badge" alt="Project 3"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ceoweggo/open-collab-4">
-          <img src="https://img.shields.io/badge/Cybersecurity_Best_Practices-E95420?style=for-the-badge" alt="Project 4"/>
+        <a href="https://github.com/ceoweggo/Corebrain">
+          <img src="https://img.shields.io/badge/COREBRAIN_SDK-FFFFFF?style=for-the-badge" alt="cOREBRAIN"/>
         </a>
       </td>
     </tr>
