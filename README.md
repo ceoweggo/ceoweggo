@@ -146,7 +146,7 @@
 </div>
 <div align="center">
   <h3>🌍🇪🇺 Collaborating with Erasmus+</h3>
-  <a href="[https://globodain.com/en-us/education](https://globodain.com/en-us/education/partnership)">
+  <a href="https://globodain.com/en-us/education/partnership">
     <img src="https://img.shields.io/badge/Erasmus+_Partner-004494?style=for-the-badge&logo=european-union&logoColor=white" alt="Erasmus+"/>
   </a>
   <p>Empowering students and professionals through innovative IT education initiatives across Europe</p>
