@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="E-Mail">
   </a>
   <a href="https://github.com/ceoweggo">
-    <img src="https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" alt="Visits">
+    <img src="https://komarev.com/ghpvc/?username=ceoweggo&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" alt="Visits">
   </a>
 </div>
 
